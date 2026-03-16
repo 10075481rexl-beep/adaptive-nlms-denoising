@@ -31,6 +31,8 @@ MSE Reduction:
 
 ![result](simresult.png)
 
+![Experiment Result](experimentresult.png)
+
 ## Parameter Analysis
 
 The influence of step size μ and filter order M on SNR and MSE was analyzed.
