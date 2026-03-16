@@ -29,7 +29,7 @@ MSE Reduction:
 
 ## Simulation Result
 
-![result](sim_result.png)
+![result](simresult.png)
 
 ## Parameter Analysis
 
